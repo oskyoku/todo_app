@@ -1,0 +1,24 @@
+.list-home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+}
+
+.todo-title{
+    color: white;
+    font-size: 48px;
+}
+
+.list-title{
+    color: white;
+    font-size: 42px;
+}
+
+.home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+}
